@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Work for Cooper, or A bone for the doctour to pick; being an ansvver to a scurrilous pamphlet, entituled, The asse beaten for bawling.</title>
+            <author>Dauncey, John, fl. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02861</idno>
+            <idno type="STC">Wing D294</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[247]</idno>
+            <idno type="EEBO-CITATION">99885062</idno>
+            <idno type="PROQUEST">ocm99885062</idno>
+            <idno type="VID">182916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182916)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[248])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Work for Cooper, or A bone for the doctour to pick; being an ansvver to a scurrilous pamphlet, entituled, The asse beaten for bawling.</title>
+                  <author>Dauncey, John, fl. 1663.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Iohn Dauncey.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "To you sir, cause you're of those shallow-brains ..."</note>
+                  <note>In response to Edmund Cooper's The asse beaten for bawling.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cooper, Edmund. --  Asse beaten for bawling --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182916:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>WORK for COOPER, OR A Bone for the Doctour to pick; Being an ANSVVER to a Scurrilous Pamphlet, Entituled, The ASSE beaten for Bawling.</head>
+            <opener>
+               <salute>To Dr. <hi>Edm. Cooper.</hi>
+               </salute>
+            </opener>
+            <lg>
+               <l>TO you Sir, cauſe you're of thoſe <hi>Shallow-brains,</hi>
+               </l>
+               <l>That prize a <hi>Gem,</hi> below two <hi>Barly grains,</hi>
+               </l>
+               <l>That like the <hi>Dunghill Cock,</hi> rather confine</l>
+               <l>Your Spirits to a <hi>Jakes,</hi> then ſeek a <hi>Mine,</hi>
+               </l>
+               <l>Who breath nought elſe but an opinion Nurſt</l>
+               <l>By <hi>Eccho's</hi> then your ſelves far more accurſt.</l>
+            </lg>
+            <lg>
+               <l>Degenerate Race! do's <hi>Vice</hi> find <hi>Pleaders</hi> then,</l>
+               <l>
+                  <hi>England</hi> breed thoſe will <hi>Vindicate a Sin?</hi>
+               </l>
+               <l>Is <hi>Piety?</hi> Is all <hi>Religion</hi> fled,</l>
+               <l>
+                  <hi>Swearing</hi> and <hi>Drunkenneſſe</hi> come in their ſtead?</l>
+               <l>And can their <hi>Advocates</hi> for them too bee?</l>
+               <l>
+                  <hi>Sad</hi> World! But pray Sir who gave you your <hi>Fee?</hi>
+               </l>
+               <l>We know you uſe to take it, and perhaps</l>
+               <l>Promiſe the <hi>Ctre,</hi> but breed an <hi>After-lapſe;</hi>
+               </l>
+               <l>'Thas been the <hi>Empericks Trade:</hi> but how you vaile</l>
+               <l>Your <hi>Plot?</hi> how cunningly you ſeem to <hi>Raile</hi>
+               </l>
+               <l>Againſt <hi>Smectymnuus,</hi> that you might Excuſe</l>
+               <l>Two horrid <hi>Sins, God</hi> and your <hi>Self abuſe.</hi>
+               </l>
+               <l>An <hi>Eaſie Judgement</hi> might have led you Sir,</l>
+               <l>To have underſtood the <hi>Aſſe</hi> without this ſtir;</l>
+               <l>But now I find he has more <hi>Wit</hi> then <hi>You,</hi>
+               </l>
+               <l>
+                  <hi>Indeed I've known</hi> Aſſes <hi>been</hi> Doctors <hi>too.</hi>
+               </l>
+               <l>Had not your <hi>Violent love</hi> too ill reſtrain'd</l>
+               <l>Your <hi>Sence:</hi> You might have found that he declaim'd</l>
+               <l>Not againſt <hi>Things</hi> but <hi>Vices: Church</hi> and <hi>State</hi>
+               </l>
+               <l>I know he <hi>Honours,</hi> 'twas his <hi>Zealous</hi> hate</l>
+               <l>To <hi>Wickedneſſe,</hi> that gain'd him your <hi>ill will,</hi>
+               </l>
+               <l>
+                  <hi>Oh may be gain it and increaſe it ſtill.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But Sir to clear that <hi>Judgement</hi> is ſo weak,</l>
+               <l>It <hi>
+                     <g ref="char:V">Ʋ</g>nderſtands</hi> not what an <hi>Aſſe</hi> does <hi>ſpeak.</hi>
+               </l>
+               <l>Pray let me tell you, and 'tis what I know,</l>
+               <l>The <hi>Church</hi> of <hi>England</hi> doth to <hi>ſuch men</hi> owe,</l>
+               <l>Such <hi>men</hi> as <hi>writ</hi> that <hi>Aſſe:</hi> whoſe <hi>Pious ſoules,</hi>
+               </l>
+               <l>Although they can't <hi>diſgeſt</hi> your <hi>full brim'd boules,</hi>
+               </l>
+               <l>Nor <hi>Thunder</hi> out your <hi>Ranting Oaths,</hi> yet be</l>
+               <l>As <hi>Faithfull</hi> to the <hi>Church,</hi> the <hi>Liturgy,</hi>
+               </l>
+               <l>
+                  <hi>Honours</hi> the <hi>Biſhops</hi> and the <hi>Hierarchy,</hi>
+               </l>
+               <l>Pray-they in truth may th' <hi>Churches Fathers</hi> be.</l>
+               <l>And tell me Sir if you would count him rather,</l>
+               <l>Of a <hi>lov'd Child,</hi> the more <hi>Indulgent Father,</hi>
+               </l>
+               <l>Who gives his <hi>ill inclining</hi> Son a <hi>Free</hi>
+               </l>
+               <l>
+                  <hi>Swinge</hi> in <hi>Vice,</hi> till he <hi>kiſſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the <hi>Gallow-tree:</hi>
+               </l>
+               <l>Or he gives <hi>due Correction,</hi> who though <hi>leſſe</hi>
+               </l>
+               <l>
+                  <hi>Loving</hi> he ſeems, yet leads to <hi>Happyneſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But <hi>Mr. Doctor</hi> ſince y'ave ſhow'd your <hi>witt,</hi>
+               </l>
+               <l>And cauſe y'are come in <hi>Print</hi> think y'ave <hi>hitt</hi>
+               </l>
+               <l>On a <hi>fine Cunning pretty Nibling straine,</hi>
+               </l>
+               <l>Pray give me leave to tell you ſomethings <hi>plaine:</hi>
+               </l>
+               <l>Firſt, <hi>y'are an Aſs;</hi> but that I think you know,</l>
+               <l>And therefore let the <hi>World</hi> know ſo much too,</l>
+               <l>Elſe thus much <hi>Ignorance</hi> you had nee're <hi>betray'd,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor <hi>publiquely</hi> your <hi>Folly</hi> had <hi>diſplay'd.</hi>
+               </l>
+               <l>There's ſomething <hi>worſe</hi> behind which I ſhould <hi>tell,</hi>
+               </l>
+               <l>But may <hi>conceal</hi> it, ſince 'tis <hi>ſeen</hi> ſo well,</l>
+               <l>Yet it ſhall out, for Ile ne're be a <hi>Slave</hi>
+               </l>
+               <l>To my own thoughts, <hi>I think too you're a knave:</hi>
+               </l>
+               <l>Or elſe you do <hi>bely</hi> your ſelf, for he</l>
+               <l>That <hi>pleads</hi> for <hi>
+                     <g ref="char:V">Ʋ</g>ice,</hi> ſmells rank of <hi>Knavery.</hi>
+               </l>
+               <l>But Sir, in ſome part we may you excuſe,</l>
+               <l>For whilſt men <hi>beſtially</hi> themſelves abuſe</l>
+               <l>By <hi>Gorging,</hi> till they <hi>Belch</hi> it up again,</l>
+               <l>Th' advance your <hi>trade,</hi> and thus you <hi>plead</hi> for <hi>gain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In ſumme, Sir, know the <hi>time</hi> will one day come,</l>
+               <l>The <hi>Aſs</hi> may freely <hi>ſpeak</hi> when <hi>Balaam</hi>'s dumb.</l>
+               <l>Such <hi>Balaam</hi>'s as your ſelf, by <hi>wealth</hi> made <hi>bold,</hi>
+               </l>
+               <l>Who <hi>ſtrangely</hi> hording up your <hi>heaps</hi> of <hi>gold,</hi>
+               </l>
+               <l>Grow <hi>proud, imperious, ſcurrilous,</hi> and then</l>
+               <l>Count <hi>poverty</hi> a <hi>crime</hi> in <hi>vertuous</hi> men.</l>
+            </lg>
+            <lg>
+               <l>God ſave King <hi>Charles,</hi> and keep him from their <hi>Claws,</hi>
+               </l>
+               <l>Who <hi>pray</hi> for him, <note n="*" place="margin">His Ma<gap reason="illegible" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Declarations againſt Vic<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, d<gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>bed and p<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>phane perſons, againſt which the Author of Balaams Aſſe only declaims, though more parti<g ref="char:EOLhyphen"/>cularly against thoſe vices in the Mini<g ref="char:EOLhyphen"/>ſtry, as in them more Odious.</note> 
+                  <hi>yet plead againſt his Laws.</hi>
+               </l>
+            </lg>
+            <byline>Iohn Dauncey.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
